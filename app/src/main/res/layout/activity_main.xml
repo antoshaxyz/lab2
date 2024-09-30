@@ -65,7 +65,7 @@
             android:id="@+id/topText"
             android:layout_width="425dp"
             android:layout_height="match_parent"
-            android:text="Words and cahrs counter"
+            android:text="Words and chars counter"
             android:textAlignment="center"
             android:textAllCaps="false"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
